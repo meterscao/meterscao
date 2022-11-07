@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 嗨，你好，我是晓峰。
+
+我是一名 Web 前端开发者，同时也喜欢 iOS 生态的独立开发。
+
+我喜欢编程，热爱跑步，也乐于分享。
 
 <!--
 **meterscao/meterscao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
