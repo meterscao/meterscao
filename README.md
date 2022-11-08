@@ -4,4 +4,4 @@
 
 我喜欢编程，也热衷基于 Swift 的 iOS 开发，最近一直在跑步。
 
-这是我的开放 [LifeLogs](https://github.com/meterscao/LifeLogs)
+这是我的开放生活日志 [LifeLogs](https://github.com/meterscao/LifeLogs)。
